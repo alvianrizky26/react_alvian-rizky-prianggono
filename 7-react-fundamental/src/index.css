@@ -56,7 +56,7 @@ table {
 body {
 	font-family: 'Montserrat', sans-serif;
 	background-color: whitesmoke;
-	/*line-height: 1.65;
+	/* line-height: 1.65;
 	padding-bottom: 1000px;
 	overflow-x: hidden;*/
 }
@@ -91,7 +91,17 @@ body {
 	padding-bottom: 3px;
 }
 /* end navbar */
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 2rem;
+	margin: 20px auto;
+	margin-bottom: 80px;
+}
+p {
+	margin-bottom: 20px;
 
+}
 .container-fluid {
 	color: black;
 	min-height: 50vh;
@@ -110,6 +120,7 @@ body {
     display: grid;
     place-content: center;
     width: 100%;
+  
 }
 .text {
     color: black;

@@ -18,6 +18,7 @@ function validation(){
         
         
         
+        
     }else{
         alert("Product Name: " + product + "\nProduct price: " + price + "\nimage of product: " + image + "\nProduct category: " + category + "\nProduct Freshness: " + form + "\nberhasil di input" );
     }
