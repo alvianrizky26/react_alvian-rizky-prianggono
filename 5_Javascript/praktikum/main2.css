@@ -91,25 +91,28 @@ body {
 	padding-bottom: 3px;
 }
 /* end navbar */
-
-.container-fluid {
+/* .container-fluid {
 	color: black;
 	min-height: 50vh;
 	background-color : whitesmoke ;
 	
 	text-align: left;
 
-}
+} */
 .container-fluid h1 {
 	font-size: 2rem;
 	margin: 20px auto;
     margin-bottom: 80px;
     
 }
+p {
+	margin-bottom: 20px;
+}
 .container2 {
     display: grid;
     place-content: center;
     width: 100%;
+  
 }
 .text {
     color: black;
